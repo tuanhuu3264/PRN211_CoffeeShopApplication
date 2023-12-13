@@ -1,0 +1,15 @@
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\bin\Debug\net6.0\Team4.GroupProject.Repositories.deps.json
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\bin\Debug\net6.0\Team4.GroupProject.Repositories.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\bin\Debug\net6.0\Team4.GroupProject.Repositories.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.csproj.AssemblyReference.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.AssemblyInfoInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.AssemblyInfo.cs
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.csproj.CoreCompileInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.csproj.CopyComplete
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\refint\Team4.GroupProject.Repositories.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\Team4.GroupProject.Repositories.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.Repositories\obj\Debug\net6.0\ref\Team4.GroupProject.Repositories.dll

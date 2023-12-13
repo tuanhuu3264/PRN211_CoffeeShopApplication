@@ -1,0 +1,64 @@
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.exe
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.deps.json
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.runtimeconfig.json
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.runtimeconfig.dev.json
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\ref\PetMS.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.pdb
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.AssemblyReference.cache
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Properties.Resources.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.GenerateResource.cache
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.AssemblyInfoInputs.cache
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.AssemblyInfo.cs
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.CoreCompileInputs.cache
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\ref\PetMS.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.pdb
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.genruntimeconfig.cache
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Login.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Splash.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Customers.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Employees.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Homes.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Products.resources
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.CopyComplete
+D:\FPTU\Ky5\PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Billings.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.exe
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.deps.json
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.runtimeconfig.json
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.runtimeconfig.dev.json
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\PetMS.pdb
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.AssemblyReference.cache
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Billings.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Customers.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Employees.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Homes.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Login.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Products.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Properties.Resources.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.Splash.resources
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.GenerateResource.cache
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.AssemblyInfoInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.AssemblyInfo.cs
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.CoreCompileInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.csproj.CopyComplete
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\refint\PetMS.dll
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.pdb
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\PetMS.genruntimeconfig.cache
+E:\New folder\GroupProject-PRN211\PetMS\PetMS\obj\Debug\net5.0-windows\ref\PetMS.dll

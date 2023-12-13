@@ -1,0 +1,14 @@
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.deps.json
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.runtimeconfig.json
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.csproj.AssemblyReference.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.AssemblyInfoInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.AssemblyInfo.cs
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\refint\Team4.GroupProject.BusinessObjects.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\Team4.GroupProject.BusinessObjects.genruntimeconfig.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessObjects\obj\Debug\net6.0\ref\Team4.GroupProject.BusinessObjects.dll

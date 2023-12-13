@@ -1,0 +1,17 @@
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.BusinessServices.deps.json
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.BusinessServices.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.BusinessServices.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.Repositories.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.BusinessObjects.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\bin\Debug\net6.0\Team4.GroupProject.Repositories.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.csproj.AssemblyReference.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.AssemblyInfoInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.AssemblyInfo.cs
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.csproj.CoreCompileInputs.cache
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.csproj.CopyComplete
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\refint\Team4.GroupProject.BusinessServices.dll
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\Team4.GroupProject.BusinessServices.pdb
+E:\New folder\GroupProject-PRN211\PetMS\Team4.GroupProject.BusinessServices\obj\Debug\net6.0\ref\Team4.GroupProject.BusinessServices.dll
